@@ -1,0 +1,511 @@
+[
+    [
+        "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app",
+        {
+            "sourcePath": "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1521460894000,
+            "changeTime": 1521460894000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main",
+        {
+            "sourcePath": "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1521460894000,
+            "changeTime": 1521460894000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default",
+        {
+            "sourcePath": "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1521460894000,
+            "changeTime": 1521460894000,
+            "contentHash": "8d4a9a94672f3c47f2fa4df8ea9948d361c224f2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/aura",
+        {
+            "sourcePath": "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1521460894000,
+            "changeTime": 1521460894000,
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/aura/AccountLocator",
+        {
+            "sourcePath": "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/aura/AccountLocator",
+            "isDirectory": true,
+            "size": 374,
+            "modifiedTime": 1521461229000,
+            "changeTime": 1521460894000,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+        {
+            "sourcePath": "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1521460894000,
+            "changeTime": 1521460894000,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 170,
+            "modifiedTime": 1521461229000,
+            "changeTime": 1521461229000,
+            "isWorkspace": false,
+            "contentHash": "dbbd64e0669588a3cdf8fa4a13342dd078ab7183"
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+        {
+            "sourcePath": "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1521460894000,
+            "changeTime": 1521460894000,
+            "contentHash": "dfe99a871ed485dfde85a92f9ef175c42e82cbc9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+        {
+            "sourcePath": "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+            "isDirectory": false,
+            "size": 114,
+            "modifiedTime": 1521460894000,
+            "changeTime": 1521460894000,
+            "contentHash": "2328b9d86912304ce18f810ad4c8ff6f7a2f0a1a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+        {
+            "sourcePath": "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1521460894000,
+            "changeTime": 1521460894000,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+        {
+            "sourcePath": "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1521460894000,
+            "changeTime": 1521460894000,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+        {
+            "sourcePath": "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1521460894000,
+            "changeTime": 1521460894000,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+        {
+            "sourcePath": "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1521460894000,
+            "changeTime": 1521460894000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+        {
+            "sourcePath": "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1521460894000,
+            "changeTime": 1521460894000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/classes",
+        {
+            "sourcePath": "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1521460894000,
+            "changeTime": 1521460894000,
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/classes/AccountController.cls",
+        {
+            "sourcePath": "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/classes/AccountController.cls",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1521460894000,
+            "changeTime": 1521460894000,
+            "contentHash": "3f60049bee49ec2fb9b294c15233ffcd7dd4f212",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/classes/AccountController.cls-meta.xml",
+        {
+            "sourcePath": "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/classes/AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1521460894000,
+            "changeTime": 1521460894000,
+            "contentHash": "009dea813ac2a75cc97e39cbe424285f551f3488",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/layouts",
+        {
+            "sourcePath": "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/layouts",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1521460894000,
+            "changeTime": 1521460894000,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9756,
+            "modifiedTime": 1521460894000,
+            "changeTime": 1521460894000,
+            "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9708,
+            "modifiedTime": 1521460894000,
+            "changeTime": 1521460894000,
+            "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9756,
+            "modifiedTime": 1521460894000,
+            "changeTime": 1521460894000,
+            "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9708,
+            "modifiedTime": 1521460894000,
+            "changeTime": 1521460894000,
+            "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/objects",
+        {
+            "sourcePath": "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1521460894000,
+            "changeTime": 1521460894000,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/objects/Account",
+        {
+            "sourcePath": "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1521460894000,
+            "changeTime": 1521460894000,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/objects/Account/fields",
+        {
+            "sourcePath": "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1521460894000,
+            "changeTime": 1521460894000,
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+        {
+            "sourcePath": "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 404,
+            "modifiedTime": 1521460894000,
+            "changeTime": 1521460894000,
+            "contentHash": "4d2f163b141a91a4b7fcdba55159299e4af10836",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/permissionsets",
+        {
+            "sourcePath": "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1521460894000,
+            "changeTime": 1521460894000,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+        {
+            "sourcePath": "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 698,
+            "modifiedTime": 1521460894000,
+            "changeTime": 1521460894000,
+            "contentHash": "71b52c9db9d3928676400d25718831436c0e5f8a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1521460894000,
+            "changeTime": 1521460894000,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 17636,
+            "modifiedTime": 1521460894000,
+            "changeTime": 1521460894000,
+            "contentHash": "0c54835d29f525d17b858318dcf83e601a00ce0f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4596,
+            "modifiedTime": 1521460894000,
+            "changeTime": 1521460894000,
+            "contentHash": "7c85f9442350b569799e282adf89f1badf052edc",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4592,
+            "modifiedTime": 1521460894000,
+            "changeTime": 1521460894000,
+            "contentHash": "99644587791080a44c9210de9fa1f6404f1c8884",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4932,
+            "modifiedTime": 1521460894000,
+            "changeTime": 1521460894000,
+            "contentHash": "d7ff65dcb3dec78687d5631dd053c7c4ca251104",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1",
+        {
+            "sourcePath": "/Volumes/Official/SalesforceDX/SF_SCRATCH/gloc/geolocation_ver3/Salesforcedx_ver1",
+            "isDirectory": true,
+            "size": 340,
+            "modifiedTime": 1521460894000,
+            "changeTime": 1521460894000,
+            "contentHash": "b500e0cc0fe528e3c3beb5f312ce13c9ab3dbcb9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
